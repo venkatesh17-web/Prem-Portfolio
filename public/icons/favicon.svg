@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b4ff"/>
+      <stop offset="100%" stop-color="#0066cc"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#050510"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="url(#grad)" stroke-width="2.5" stroke-opacity="0.8"/>
+  <text x="32" y="42" font-family="'Space Grotesk', system-ui, -apple-system, sans-serif" font-size="26" font-weight="800" fill="#00b4ff" text-anchor="middle" letter-spacing="-1">PT</text>
+</svg>
